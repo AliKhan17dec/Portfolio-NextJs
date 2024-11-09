@@ -7,7 +7,7 @@ const Skills = () => {
       <div>
         <h2 className='text-4xl md:text-5xl' data-aos="zoom-in-up">Technologies I work with</h2>
         <p className='text-gray-500 pt-2' data-aos="zoom-in-up">
-        I have a solid foundation in web development, specializing in HTML, CSS, and JavaScript. My experience extends to using frameworks like React and Next.js to create dynamic and user-friendly applications. I'm also proficient in Tailwind CSS for efficient styling and design. Additionally, I have hands-on experience with Linux, AWS, Git, and GitHub, enabling me to work effectively in diverse development and deployment environments. With a passion for learning, I stay updated on the latest technologies to enhance my skill set and contribute effectively to projects.
+        I have a solid foundation in web development, specializing in HTML, CSS, and JavaScript. My experience extends to using frameworks like React and Next.js to create dynamic and user-friendly applications. I am also proficient in Tailwind CSS for efficient styling and design. Additionally, I have hands-on experience with Linux, AWS, Git, and GitHub, enabling me to work effectively in diverse development and deployment environments. With a passion for learning, I stay updated on the latest technologies to enhance my skill set and contribute effectively to projects.
         </p>
       </div>
       <div>
